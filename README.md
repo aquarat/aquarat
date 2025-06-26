@@ -1,16 +1,22 @@
-## Hi there 👋
+My name is Aaron (aka aquarat). I'm passionate about technology and enjoy understanding how things work from first principles (all the way down to processors and semiconductors). Understanding the stack allows me to fix niche problems, and it's fun :) 
 
-<!--
-**aquarat/aquarat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a diverse background with experience in aviation, technical diving, running a media production business, and managing staff. These days, I'm focused on deepening my IT expertise.
 
-Here are some ideas to get you started:
+### Core Competencies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **TypeScript / Node.js / React**
+*   **Cloudflare:** Workers, Pages, Email Routing, Domains, Caching, and WAF
+*   **AWS:** CloudFormation, Secrets Manager, ECS, EC2, Load Balancers, RDS, and more
+*   **Linux:** Ubuntu and Fedora
+*   **Containerization:** Docker and related technologies
+*   **Networking:** TCP/IP, especially with MikroTik routers
+*   **AI:** Agentic coding and running LLMs locally
+
+### Also Experienced With
+
+*   **Languages:** Go, Java, Python, and MicroPython
+*   **Hardware:** Low-voltage electronics, especially Espressif MCUs and home automation
+
+---
+
+Recreationally, I'm a keen cyclist and a newbie rower. 😊
