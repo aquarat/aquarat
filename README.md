@@ -11,6 +11,7 @@ I have a diverse background with experience in aviation, technical diving, runni
 *   **Containerization:** Docker and related technologies
 *   **Networking:** TCP/IP, especially with MikroTik routers
 *   **AI:** Agentic coding and running LLMs locally
+*   **Blockchain:** Anything EVM-based
 
 ### I'm also experienced with
 
