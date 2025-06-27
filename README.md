@@ -1,6 +1,6 @@
 My name is Aaron (aka aquarat). I have a strong interest in technology and enjoy understanding how things work from first principles (all the way down to processors and semiconductors). Understanding the stack allows me to fix niche problems, and it's fun :) 
 
-I have a wide background with experience in aviation, technical diving, running a media production business, and managing staff. These days, I'm focused on deepening my IT expertise.
+I have a diverse background with experience in aviation, technical diving, running a media production business, and team management. These days, I'm focused on deepening my IT expertise, especially in software development.
 
 ### My primary skills 
 
