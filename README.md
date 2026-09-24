@@ -1,6 +1,6 @@
-My name is Aaron (aka aquarat). I have a strong interest in technology and enjoy understanding how things work from first principles (all the way down to processors and semiconductors). Understanding the stack allows me to fix niche problems, and it's fun :) 
+My name is Aaron (aka aquarat). I have a deep interest in technology in general and enjoy understanding how things work from first principles (all the way down to processors and semiconductors). Technology here encompasses both modern IT and mechanical systems. Understanding the stack allows me to fix niche problems, and it's fun :) 
 
-I have a diverse background with experience in aviation, technical diving, running a media production business, and team management. These days, I'm focused on deepening my IT expertise, especially in software development.
+I have a diverse background with experience in aviation, technical diving, running a media production business, and team management, to name a subset. I love making _things_ efficient, whether that be a team working on a project or machines processing data. Building an efficient product or service _efficiently_ and watching it last make me happy.
 
 ### My primary skills 
 
@@ -10,13 +10,14 @@ I have a diverse background with experience in aviation, technical diving, runni
 *   **Linux:** Ubuntu and Fedora
 *   **Containerization:** Docker and related technologies
 *   **Networking:** TCP/IP, especially with MikroTik routers
-*   **AI:** Agentic coding and running LLMs locally
+*   **AI:** Agentic coding and running LLMs locally, prompt optimisation and efficiency telemetry
 *   **Blockchain:** Anything EVM-based
 
 ### I'm also experienced with
 
-*   **Languages:** Go, Java, Python, and MicroPython
-*   **Hardware:** Low-voltage electronics, especially Espressif MCUs and home automation
+*   **Languages:** Go, Java, Python, Ruby on Rails, and MicroPython
+*   **Hardware:** Low-voltage electronics, especially Espressif MCUs and home automation, reverse engineering hardware for interoperability
+*   **Security and Vulnerability:** They like to test the fence.
 
 ---
 
